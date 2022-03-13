@@ -4,6 +4,13 @@ title: About Long Haul
 ---
 
 <div class="post">
+<h1 class="pageTitle">Autores</h1>
+<h2>Miguel Ávila Martínez</h2>
+<img src="{{ '/assets/img/Miguel.jpg' }}" alt="">
+<p class="intro">El Miguel, el puto amo.</p>
+<p>Le gustan todas pero solo quiere a una.</p>
+</div>
+<!--<div class="post">
 	<h1 class="pageTitle">About Long Haul</h1>
 	<img src="{{ '/assets/img/atlas1.jpg' }}" alt="">
 	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
@@ -21,4 +28,5 @@ title: About Long Haul
   		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
   		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
   	</ul>
-</div>
+</div>-->
+
