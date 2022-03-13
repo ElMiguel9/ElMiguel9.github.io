@@ -1,7 +1,7 @@
 title: Recuperación y acceso a la información
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: https://long-haul.netlify.app
+url: https://www.recuperacion-acceso-informacion.es/
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
