@@ -16,9 +16,9 @@ paginate: 5
 navigation:
   - title: Página principal
     url: /index.html
-  - title: About us
+  - title: Sobre nosotros
     url: /about
-  - title: Contact
+  - title: Contacto
     url: /contact
 
 social:
