@@ -894,8 +894,9 @@ POST STYLING
 AUTHOR STYLING
 ***************/
 .author {
-  border: #000;
+  border-radius: 50%;
 }
+.author .im
 
 /***************
 POST NAV STYLING
