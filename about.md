@@ -7,8 +7,8 @@ title: About us
 <h1 class="pageTitle">Autores</h1>
 <h2>Miguel Ávila Martínez</h2>
 <img src="{{ '/assets/img/Miguel.jpg' }}" alt="">
-<p class="intro">El Miguel, el puto amo.</p>
-<p>Le gustan todas pero solo quiere a una.</p>
+<p class="intro">parrafo intro</p>
+<p>Segundo parrafo</p>
 </div>
 <!--<div class="post">
 	<h1 class="pageTitle">About Long Haul</h1>
