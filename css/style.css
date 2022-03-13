@@ -801,7 +801,7 @@ HEADER STYLING
 ***************/
 .header {
   background-color: seagreen;
-  background-image: url("../img/touring.jpg");
+  background-image: url("../img/atlas1.jpg");
   background-size: cover;
   background-position: center center;
   color: white;
@@ -817,7 +817,7 @@ HEADER STYLING
     font-size: 1em;
     line-height: 3em;
     font-family: "Open Sans", Helvetica, Arial, sans-serif;
-    font-weight: 15;
+    font-weight: 800;
     text-transform: uppercase; }
     .header h1 a {
       color: white;
