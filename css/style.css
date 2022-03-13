@@ -891,6 +891,13 @@ POST STYLING
     margin-bottom: 0; }
 
 /***************
+AUTHOR STYLING
+***************/
+.author {
+  border: #000;
+}
+
+/***************
 POST NAV STYLING
 ***************/
 .postNav {

@@ -3,7 +3,7 @@ layout: default
 title: About Long Haul
 ---
 
-<div class="post">
+<div class="author">
 <h1 class="pageTitle">Autores</h1>
 <h2>Miguel Ávila Martínez</h2>
 <img src="{{ '/assets/img/Miguel.jpg' }}" alt="">
