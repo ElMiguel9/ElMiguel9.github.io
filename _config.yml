@@ -14,9 +14,9 @@ plugins: [jekyll-paginate]
 paginate: 5
 
 navigation:
-  - title: Home
+  - title: Página principal
     url: /index.html
-  - title: About
+  - title: About us
     url: /about
   - title: Contact
     url: /contact
