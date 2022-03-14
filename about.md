@@ -1,4 +1,4 @@
----
+<!-----
 layout: default
 title: About us
 ---
@@ -10,7 +10,7 @@ title: About us
 <p class="text">parrafo intro</p>
 <p>Segundo parrafo</p>
 </div>
-<!--<div class="post">
+<div class="post">
 	<h1 class="pageTitle">About Long Haul</h1>
 	<img src="{{ '/assets/img/atlas1.jpg' }}" alt="">
 	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
