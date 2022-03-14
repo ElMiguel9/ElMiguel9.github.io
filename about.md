@@ -6,7 +6,7 @@ title: About us
 <div class="author">
 <h1 class="pageTitle">Autores</h1>
 <h2>Miguel Ávila Martínez</h2>
-<img class="imagen" src="{{ '/assets/img/Miguel.jpg' }}" alt="">
+<img src="{{ '/assets/img/Miguel.jpg' }}" alt="">
 <p class="text">parrafo intro</p>
 <p>Segundo parrafo</p>
 </div>
