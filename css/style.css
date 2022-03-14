@@ -893,8 +893,20 @@ POST STYLING
 /***************
 AUTHOR STYLING
 ***************/
-.imagen {
+.author{
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+.author texto{
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+.author img {
   border-radius: 50%;
+
 }
 
 /***************
