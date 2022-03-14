@@ -896,12 +896,13 @@ AUTHOR STYLING
 .author{
   display: flex;
   align-items: center;
-  justify-content: center
+  justify-content: center;
 }
 
-.author texto{
+.author text{
   font-size: 20px;
   padding-left: 20px;
+  color:red;
 }
 
 .author img {
