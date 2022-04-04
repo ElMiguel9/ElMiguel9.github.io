@@ -2,7 +2,7 @@
 layout: post
 title:  "7 beneficios de la web semántica"
 date:   2022-03-14
-description: ToonNFT es una Web 3.0 que se enfoca en transformar la industria de Webtoons implantando las técnicas más innovadoras y novedosas. El objetivo de esta plataforma es solucionar los puntos débiles de este tipo de web mediante la tecnología blockchain y atraer a un número mayor de usuarios.
+description: ¿Cómo puede la web semántica facilitarte la vida? En este post te explicamos 7 beneficios que seguro que te plantearan su uso.
 ---
 
 <p class="intro"><span class="dropcap">E</span>l término “Web semántica” se acuñó con la finalidad de explicar una red en la que el contenido sería procesado por las máquinas de manera similar a si lo hiciera un humano y donde los datos estarían conectados y podrían entenderse conceptual y contextualmente.
