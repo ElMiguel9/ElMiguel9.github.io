@@ -10,13 +10,6 @@ ToonNFT es una Web 3.0 que se enfoca en transformar la industria de Webtoons imp
 <img src="/assets/img/manga1.jpg">
 TooNFT se encuentra dentro de las dApps más importantes desarrolladas por Toomic que implementa un sistema de pagos que se enfoca en apoyar y recompensar a todos los creadores de contenido en la plataforma. Su principal objetivo es implantar un ecosistema descentralizado donde los creadores puedan optimizar sus ganancias al convertir sus WebToons en NFT y comercializarlos en el mercado NFT.
 
-## Unordered List
-* List Item
-* Longer List Item
-  * Nested List Item
-  * Nested Item
-* List Item
-
 Las principales características de esta plataforma son:
 
 * Suscripción de contenido
@@ -27,5 +20,5 @@ Las principales características de esta plataforma son:
 
 Esta Web 3.0 utiliza el token TOON para controlar su ecosistema, gracias a este token se facilitarán los pagos y se proporcionará acceso al ecosistema a los usuarios. Además, este token también podrá apostarse y se utilizará para recibir incentivos cuando se participe en las actividades de votación en el sistema de Gobernanza.
 <br>
-<a href="https://twitter.com/xXYorinoYamaXx" style="font-size:20px">Autor de la imagen</a>
+<a href="https://twitter.com/xXYorinoYamaXx" style="font-size:20px">Autor de la imagen.</a>
 
