@@ -20,6 +20,7 @@ navigation:
  #   url: /about
   - title: Lenguajes de la web semántica
     url: /contact
+    
 
 social:
   github: brianmaierjr
