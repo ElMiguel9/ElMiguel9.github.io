@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "7 beneficios de la web semántica"
+date:   2022-03-14
+description: ToonNFT es una Web 3.0 que se enfoca en transformar la industria de Webtoons implantando las técnicas más innovadoras y novedosas. El objetivo de esta plataforma es solucionar los puntos débiles de este tipo de web mediante la tecnología blockchain y atraer a un número mayor de usuarios.
+---
+
+<p class="intro"><span class="dropcap">E</span>l término “Web semántica” se acuñó con la finalidad de explicar una red en la que el contenido sería procesado por las máquinas de manera similar a si lo hiciera un humano y donde los datos estarían conectados y podrían entenderse conceptual y contextualmente.
+
+Se trata de una tecnología en desarrollo, aunque ya pueden apreciarse los primeros picos de crecimiento mediante aplicaciones de internet que se denominan “Web 3.0”.
+
+La “Web 3.0” se trata de la tercera generación de servicios de internet para aplicaciones y páginas que utilizará la comprensión de datos para proporcionar un Web semántica.</p>
+<img src="/assets/img/persona-ordenador.jpg">
+Su objetivo es diseñar webs más conectadas, abiertas e inteligentes. Los principales beneficios de este tipo de webs son:
+
+* Fiabilidad: Puede aportar mayor libertad a diseñadores y usuarios garantizando qué estos últimos siempre posean el control de los datos gracias a redes descentralizadas. Gracias a la descentralización se reduce la posibilidad de un único punto de fallo con el que la web dejará de estar disponible, lo que hace que tengan una mayor fiabilidad.
+* Globalizada: Gracias a que las Webs 3.0 ya no tienen que ser controladas mediante una única entidad, la posibilidad de que grandes empresas dejen de tener un control total en internet es más elevada. Por ello estas aplicaciones o webs no podrán ser restringidas ni censuradas.
+* Personalización: Gracias al uso y manejo de datos, la experiencia de usuario podrá ser personalizada, ya que la Web 3.0 entenderá tus preferencias, lo que podrá además aumentar la eficiencia y eficacia mientras navegas.
+* Crecimiento en ventas: Como se ha mencionado anteriormente, el tratamiento de datos es fundamental en este tipo de tecnología, por ello se entenderán mejor las necesidades del cliente y se le mostrará aquellos productos o servicios que puedan interesarle mediante la ayuda de la inteligencia artificial.
+* Menor número de interrupciones: Gracias a la descentralización, los datos se almacenarán en bases de datos que se encuentran distribuidas, por lo que esto deja de ser un inconveniente en la Web 3.0.
+* Mayor seguridad: Este tipo de webs implementa la tecnología blockchain. Lo que hace más seguro que los datos se almacenen en la cadena de bloques, gracias a que es pública y descentralizada, por tanto, su uso es transparente.
+* Descentralización: La tecnología blockchain, además de lo mencionado anteriormente, implementa la descentralización, que permite proteger los datos y, además, establecer una interacción sin intermediarios.
+
