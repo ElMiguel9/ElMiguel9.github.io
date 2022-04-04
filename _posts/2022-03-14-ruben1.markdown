@@ -20,5 +20,5 @@ Las principales características de esta plataforma son:
 
 Esta Web 3.0 utiliza el token TOON para controlar su ecosistema, gracias a este token se facilitarán los pagos y se proporcionará acceso al ecosistema a los usuarios. Además, este token también podrá apostarse y se utilizará para recibir incentivos cuando se participe en las actividades de votación en el sistema de Gobernanza.
 <br>
-<i href="https://twitter.com/xXYorinoYamaXx" style="font-size:20px">Autor de la imagen.</i>
+<a href="https://twitter.com/xXYorinoYamaXx" style="font-size:20px"><i>Autor de la imagen.</i></a>
 
