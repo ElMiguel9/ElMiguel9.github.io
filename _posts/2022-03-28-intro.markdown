@@ -12,6 +12,7 @@ La red de datos puede ser procesada directa o indirectamente por máquinas.
 Técnicamente, son aquellas actividades desarrolladas para que la publicación de datos sea más legible para las aplicaciones informáticas.
 
 La Web 3.0 aún se encuentra en sus primeras etapas, pero tiene el potencial de revolucionar la forma en que usamos Internet. Podría facilitar la búsqueda de información y permitirnos desarrollar aplicaciones nuevas e innovadoras.
+ </p>
 
 Algunas de las aplicaciones potenciales de la Web 3.0 incluyen:
 
@@ -19,5 +20,4 @@ Algunas de las aplicaciones potenciales de la Web 3.0 incluyen:
 * Un asistente personal que puede obtener información de manera proactiva y realizar tareas según sus necesidades
 * Un agente inteligente que puede negociar y ejecutar contratos en su nombre
 * Una red social descentralizada que no está controlada por ninguna empresa
- </p>
 
