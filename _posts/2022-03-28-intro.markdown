@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "TooNFT"
+date:   2022-03-28
+description: La Web Semántica se puede definir como una nueva forma de web en la que los usuarios pueden encontrar respuestas a sus preguntas de una forma más sencilla que en la actualidad.
+---
+
+<p class="intro"><span class="dropcap">L</span>a Web Semántica se puede definir como el conjunto de operaciones realizadas en el entorno de la World Wide Web (WWW) para crear tecnologías que publiquen datos que puedan ser leídos por aplicaciones informáticas.
+
+Es una extensión de la web actual que permitirá al usuario encontrar respuestas a sus preguntas de una manera más sencilla, trabajando con máquinas en cooperación mutua. 
+La red de datos puede ser procesada directa o indirectamente por máquinas. 
+Técnicamente, son aquellas actividades desarrolladas para que la publicación de datos sea más legible para las aplicaciones informáticas. </p>
+
