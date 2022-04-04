@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TooNFT"
+title:  "La Web Semántica, ¿qué es?"
 date:   2022-03-28
 description: La Web Semántica se puede definir como una nueva forma de web en la que los usuarios pueden encontrar respuestas a sus preguntas de una forma más sencilla que en la actualidad.
 ---
