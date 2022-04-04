@@ -13,9 +13,7 @@ TooNFT se encuentra dentro de las dApps más importantes desarrolladas por Toomi
 Las principales características de esta plataforma son:
 
 * Suscripción de contenido
-
 * Desarrollo comunitario
-
 * Selección de contenido a través de un sistema DAO de Gobernanza
 
 Esta Web 3.0 utiliza el token TOON para controlar su ecosistema, gracias a este token se facilitarán los pagos y se proporcionará acceso al ecosistema a los usuarios. Además, este token también podrá apostarse y se utilizará para recibir incentivos cuando se participe en las actividades de votación en el sistema de Gobernanza.
