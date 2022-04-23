@@ -17,7 +17,7 @@ navigation:
   - title: Página principal
     url: /index.html
   - title: SPARQL
-   url: /SPARQL
+    url: /SPARQL
   - title: RAI
     url: /rai
     
