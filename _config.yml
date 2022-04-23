@@ -18,8 +18,8 @@ navigation:
     url: /index.html
  # - title: Sobre nosotros
  #   url: /about
-  - title: Lenguajes de la web semántica
-    url: /contact
+  - title: ¿Qué es la Recuperación y acceso a la información?
+    url: /rai
     
 
 social:
