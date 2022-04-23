@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ¿Qué es la Recuperación y acceso a la información?
+title: RAI
 ---
 <div id="contact">
   <h1 class="pageTitle">¿Qué es la Recuperación y acceso a la información?</h1>
