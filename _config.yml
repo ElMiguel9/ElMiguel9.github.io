@@ -20,6 +20,10 @@ navigation:
     url: /SPARQL
   - title: RAI
     url: /rai
+  - title: SeRQL
+    url: /SeRQL
+  - title: Sintaxis Manchester
+    url: /Manchester
     
 
 social:
