@@ -4,13 +4,21 @@ title: Manchester
 ---
 
 <div id="contact">
-  <h1 class="pageTitle">Sintaxis Manchester</h1>
+  <h1 class="pageTitle">¿Qué es la sintaxis Manchester?</h1>
   <p class="intro">
-  SPARQL es un lenguaje de consulta y un protocolo para RDF. Se utiliza para realizar consultas contra bases de datos RDF.</p>
+  La sintaxis Manchester es un tipo de sintaxis fácil de utilizar, legible y compacta con un estilo cercano a los lenguajes de marcos. Existen variaciones disponibles para OWL y OWL 2.</p>
 <p>
-SPARQL se basa en la Recomendación del W3C para el Protocolo SPARQL para RDF[1]. El Protocolo SPARQL es un sencillo protocolo de tipo HTTP para recuperar información de un conjunto de datos RDF. Un cliente del Protocolo SPARQL envía una consulta SPARQL a un servicio del Protocolo SPARQL que luego evalúa la consulta y devuelve los resultados.
+Se utiliza para realizar descripciones de OWL 2, aunque se puede usar también para escribir ontologías completas de OWL 2. La versión original de la sintaxis Manchester OWL fue creada para OWL 1 DL. 
+Su principal uso es el de ingresar y mostrar descripciones asociadas con clases (Protégé 4, TopBraid composer).
+<h1>La gramática</h1>
+La sintaxis Manchester de OWL 2 se define mediante una notación BNF estándar que aparece en la siguiente tabla:
+## Table
 
-Una consulta SPARQL es una cadena de caracteres que codifica una pregunta sobre un conjunto de datos RDF. La pregunta se codifica utilizando el lenguaje de consulta SPARQL[2]. El lenguaje de consulta SPARQL es un lenguaje de consulta declarativo para RDF. Las consultas SPARQL pueden utilizarse para expresar una amplia variedad de preguntas sobre datos RDF.
-
-Un servicio de Protocolo SPARQL es una aplicación basada en la web que proporciona acceso a un conjunto de datos RDF y soporta el Protocolo SPARQL. Un servicio de Protocolo SPARQL puede ser cualquier aplicación basada en la web que proporciona una interfaz a un conjunto de datos RDF y soporta el Protocolo SPARQL. Hay muchas implementaciones diferentes de SPARQL
+| Construir      | Sintaxis |
+| ----------- | ----------- |
+| Símbolos no terminales | Negrita |
+| Símbolos terminales   | Cita simple |
+| Cero o más      | Llaves |
+| Cero o uno | Corchetes |
+| Alternativa | Barra vertical |
 </p>
