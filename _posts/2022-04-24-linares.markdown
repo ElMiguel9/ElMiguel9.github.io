@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Almacenamiento y servicios en la nube para bigdata"
+date:   2022-04-24
+description: La Web Semántica se puede definir como una nueva forma de web en la que los usuarios pueden encontrar respuestas a sus preguntas de una forma más sencilla que en la actualidad.
+---
+
+<p class="intro"><span class="dropcap">E</span>l almacenamiento de datos es un componente crítico de cualquier solución de big data. El tipo de almacenamiento de datos que utilice dependerá del tamaño, la variedad y la velocidad de los datos con los que trabaje. Por ejemplo, es posible que necesite almacenar los datos en una base de datos relacional, una base de datos NoSQL, un sistema de archivos distribuidos Hadoop (HDFS) o un sistema de almacenamiento de objetos.
+</p>
+Hay muchas opciones de almacenamiento basadas en la nube, que pueden ser una forma rentable de almacenar datos. Algunos de los servicios de almacenamiento más populares son Amazon Simple Storage Service (S3), Microsoft Azure Storage y Google Cloud Storage.
+<br>
+Al elegir una solución de almacenamiento, es importante tener en cuenta el coste, el rendimiento, la durabilidad y la seguridad del sistema. También tendrá que evaluar lo bien que se integra el sistema de almacenamiento con los demás componentes de su solución de big data.
+<br>
+Por ejemplo, si está utilizando Hadoop para el procesamiento de datos, tendrá que utilizar un sistema de almacenamiento que sea compatible con Hadoop (como HDFS). Por otro lado, si está utilizando una base de datos relacional, tendrá que utilizar un sistema de almacenamiento que sea compatible con esa base de datos (como Amazon RDS). <a href="https://recuperacionaccesoinfo.es/">Más información.</a> 
+
+<img src="/assets/img/persona-y-computador-3.jpg" style="display: block; margin-left: auto; margin-right: auto;">
