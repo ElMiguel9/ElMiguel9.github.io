@@ -6,7 +6,7 @@ title: Manchester
 <div id="contact">
   <h1 class="pageTitle">¿Qué es la sintaxis Manchester?</h1>
   <p class="intro">
-  La sintaxis Manchester es un tipo de sintaxis fácil de utilizar, legible y compacta con un estilo cercano a los lenguajes de marcos. Existen variaciones disponibles para OWL y OWL 2.</p>
+  La sintaxis Manchester es un <b>lenguaje de la web semántica</b> de sintaxis fácil de utilizar, legible y compacta con un estilo cercano a los lenguajes de marcos. Existen variaciones disponibles para OWL y OWL 2.</p>
 <p>
 Se utiliza para realizar descripciones de OWL 2, aunque se puede usar también para escribir ontologías completas de OWL 2. La versión original de la sintaxis Manchester OWL fue creada para OWL 1 DL. 
 Su principal uso es el de ingresar y mostrar descripciones asociadas con clases (Protégé 4, TopBraid composer).

@@ -6,7 +6,7 @@ title: SPARQL
 <div id="contact">
   <h1 class="pageTitle">SPARQL</h1>
   <p class="intro">
-  SPARQL es un lenguaje de consulta y un protocolo para RDF. Se utiliza para realizar consultas contra bases de datos RDF.</p>
+  SPARQL es un  <b>lenguaje de la web semántica</b> y un protocolo para RDF. Se utiliza para realizar consultas contra bases de datos RDF.</p>
 <p>
 SPARQL se basa en la Recomendación del W3C para el Protocolo SPARQL para RDF[1]. El Protocolo SPARQL es un sencillo protocolo de tipo HTTP para recuperar información de un conjunto de datos RDF. Un cliente del Protocolo SPARQL envía una consulta SPARQL a un servicio del Protocolo SPARQL que luego evalúa la consulta y devuelve los resultados.<br>
 Una consulta SPARQL es una cadena de caracteres que codifica una pregunta sobre un conjunto de datos RDF. La pregunta se codifica utilizando el lenguaje de consulta SPARQL[2]. El lenguaje de consulta SPARQL es un lenguaje de consulta declarativo para RDF. Las consultas SPARQL pueden utilizarse para expresar una amplia variedad de preguntas sobre datos RDF.<br>

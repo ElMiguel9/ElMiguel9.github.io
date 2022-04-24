@@ -6,7 +6,7 @@ title: SeRQL
 <div id="contact">
   <h1 class="pageTitle">SeRQL</h1>
   <p class="intro">
-  SeRQL está desarrollado por la empresa Aduna, forma parte del software Sesame. Es un lenguaje de recuperación para RDF/RDFS que combina características de otros lenguajes(RQL, RDQL, N-Triples y N3).
+  SeRQL es un <b>lenguaje de la web semántica</b> desarrollado por la empresa Aduna, forma parte del software Sesame. Es un lenguaje de recuperación para RDF/RDFS que combina características de otros lenguajes(RQL, RDQL, N-Triples y N3).
   </p>
 <p>
 Su diseño surgió con el objetivo de combinar las ventajas de otros lenguajes, algunas características de este lenguaje son:
