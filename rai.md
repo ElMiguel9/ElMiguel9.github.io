@@ -5,8 +5,8 @@ title: RAI
 <div id="contact">
   <h1 class="pageTitle">¿Qué es la Recuperación y acceso a la información?</h1>
   <p class="intro">
-  <<b>Recuperación y acceso a la información</b> es un departamento de informática que aprende métodos y técnicas para administrar datos, filtrar, recuperar y acceder a información importante.
-El concepto de recuperación y acceso a la información se puede dividir en tres secciones principales o bloques separados. El primer bloque es la recuperación en Internet, donde se suele desplegar la optimización web (SEO/SEM), motores de recuperación y crawlers y gestión de Web Semántica y Big Data. El segundo activo se centra en la recuperación y el tipo de recuperación, que utiliza un sistema métrico para analizar la información de recuperación. Finalmente, en el tercer bloque, gana el proceso de recuperación avanzada. Al recuperar información, se puede utilizar el procesamiento de lenguaje natural (NLP), el proceso de consulta y expansión, así como la extracción de información (IE).</p>
+  <b>Recuperación y acceso a la información</b> es un departamento de informática que aprende métodos y técnicas para administrar datos, filtrar, recuperar y acceder a información importante.
+El concepto de <b>recuperación y acceso a la información</b> se puede dividir en tres secciones principales o bloques separados. El primer bloque es la recuperación en Internet, donde se suele desplegar la optimización web (SEO/SEM), motores de recuperación y crawlers y gestión de Web Semántica y Big Data. El segundo activo se centra en la recuperación y el tipo de recuperación, que utiliza un sistema métrico para analizar la información de recuperación. Finalmente, en el tercer bloque, gana el proceso de recuperación avanzada. Al recuperar información, se puede utilizar el procesamiento de lenguaje natural (NLP), el proceso de consulta y expansión, así como la extracción de información (IE).</p>
 <p>
 <img src="/assets/img/google.jpg" style="display: block; margin-left: auto; margin-right: auto;">
 <h1>SEO/SEM</h1>
