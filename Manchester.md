@@ -12,13 +12,13 @@ Se utiliza para realizar descripciones de OWL 2, aunque se puede usar también p
 Su principal uso es el de ingresar y mostrar descripciones asociadas con clases (Protégé 4, TopBraid composer).
 <h1>La gramática</h1>
 La sintaxis Manchester de OWL 2 se define mediante una notación BNF estándar que aparece en la siguiente tabla:
-## Table
-
-| Construir      | Sintaxis |
-| ----------- | ----------- |
+</p>
+| Construir | Sintaxis |
+| --------- | -------- |
 | Símbolos no terminales | Negrita |
-| Símbolos terminales   | Cita simple |
-| Cero o más      | Llaves |
+| Símbolos terminales | Cita simple |
+| Cero o más | Llaves |
 | Cero o uno | Corchetes |
 | Alternativa | Barra vertical |
-</p>
+
+<img src="/assets/img/manchester.jpg" style="display: block; margin-left: auto; margin-right: auto;">
