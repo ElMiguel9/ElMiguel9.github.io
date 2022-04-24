@@ -16,10 +16,10 @@ paginate: 5
 navigation:
   - title: Página principal
     url: /index.html
-  - title: SPARQL
-    url: /SPARQL
   - title: RAI
     url: /rai
+  - title: SPARQL
+    url: /SPARQL
   - title: SeRQL
     url: /SeRQL
   - title: Sintaxis Manchester
