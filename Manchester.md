@@ -21,4 +21,13 @@ La sintaxis Manchester de OWL 2 se define mediante una notación BNF estándar q
 | Cero o uno | Corchetes |
 | Alternativa | Barra vertical |
 
+## Table
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 <img src="/assets/img/manchester.jpg" style="display: block; margin-left: auto; margin-right: auto;">

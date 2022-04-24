@@ -6,8 +6,8 @@ date:   2022-03-14
 ---
 
 <p class="intro"><span class="dropcap">T</span>ooNFT se trata de un proyecto de Toomics desarrollado con tecnología blockchain que tiene la intención de traducir mangas, cómics y Webtoons a lenguajes de la web semántica.
-Pretende que guionistas, lectores y toda persona interesada en este sector puedan comunicarse sin la necesidad de terceros.
-ToonNFT es una Web 3.0 que se enfoca en transformar la industria de Webtoons implantando las técnicas más innovadoras y novedosas. El objetivo de esta plataforma es solucionar los puntos débiles de este tipo de web mediante la tecnología blockchain y atraer a un número mayor de usuarios.</p>
+Pretende que guionistas, lectores y toda persona interesada en este sector puedan comunicarse sin la necesidad de terceros.</p>
+<p>ToonNFT es una Web 3.0 que se enfoca en transformar la industria de Webtoons implantando las técnicas más innovadoras y novedosas. El objetivo de esta plataforma es solucionar los puntos débiles de este tipo de web mediante la tecnología blockchain y atraer a un número mayor de usuarios.</p>
 <img src="/assets/img/manga1.jpg">
 <p>TooNFT se encuentra dentro de las dApps más importantes desarrolladas por Toomic que implementa un sistema de pagos que se enfoca en apoyar y recompensar a todos los creadores de contenido en la plataforma. Su principal objetivo es implantar un ecosistema descentralizado donde los creadores puedan optimizar sus ganancias al convertir sus WebToons en NFT y comercializarlos en el mercado NFT.
 
