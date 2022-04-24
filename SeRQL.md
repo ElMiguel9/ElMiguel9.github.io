@@ -6,11 +6,29 @@ title: SeRQL
 <div id="contact">
   <h1 class="pageTitle">SeRQL</h1>
   <p class="intro">
-  SPARQL es un lenguaje de consulta y un protocolo para RDF. Se utiliza para realizar consultas contra bases de datos RDF.</p>
+  SeRQL está desarrollado por la empresa Aduna, forma parte del software Sesame. Es un lenguaje de recuperación para RDF/RDFS que combina características de otros lenguajes(RQL, RDQL, N-Triples y N3).
+  </p>
 <p>
-SPARQL se basa en la Recomendación del W3C para el Protocolo SPARQL para RDF[1]. El Protocolo SPARQL es un sencillo protocolo de tipo HTTP para recuperar información de un conjunto de datos RDF. Un cliente del Protocolo SPARQL envía una consulta SPARQL a un servicio del Protocolo SPARQL que luego evalúa la consulta y devuelve los resultados.
+Su diseño surgió con el objetivo de combinar las ventajas de otros lenguajes, algunas características de este lenguaje son:
+<ul>
+  <li>Soporte de RDF Schema.</li>
+  <li>Soporte en los tipos de datos de XML Schema.</li>
+  <li>Transformación de grafos.</li>
+  <li>Sintaxis expresiva para los path.</li>
+  <li>Matching opcional de path.</li>
+</ul>    
+El lenguaje de recuperación SeRQL tiene tres principales componentes:
+<ul>
+  <li>URI's.</li>
+  <li>Literales.</li>
+  <li>Variables precedentes del lenguaje RDF.</li>
+</ul>
+En cuanto a la sintaxis, SeRQL es parecido a RQL, aunque añade algunas modificaciones que facilitan su análisis sintáctico, también llamado “parsing”, del lenguaje.
+Al igual que en RQL SeRQL está basado en una interpretación del grafo de RDF.
 
-Una consulta SPARQL es una cadena de caracteres que codifica una pregunta sobre un conjunto de datos RDF. La pregunta se codifica utilizando el lenguaje de consulta SPARQL[2]. El lenguaje de consulta SPARQL es un lenguaje de consulta declarativo para RDF. Las consultas SPARQL pueden utilizarse para expresar una amplia variedad de preguntas sobre datos RDF.
-
-Un servicio de Protocolo SPARQL es una aplicación basada en la web que proporciona acceso a un conjunto de datos RDF y soporta el Protocolo SPARQL. Un servicio de Protocolo SPARQL puede ser cualquier aplicación basada en la web que proporciona una interfaz a un conjunto de datos RDF y soporta el Protocolo SPARQL. Hay muchas implementaciones diferentes de SPARQL
+Este lenguaje de recuperación es capaz de soportar expresiones generales como las de camino, emparejado de caminos opcionales, restricciones booleanas y dos iteradores básicos:
+<ul>
+  <li>select-from-where: Recupera las tablas junto a los valores y variables para los que hay una coincidencia con los datos.</li>
+  <li>construct from where: Recupera un subgrafo con los datos del matching que se ha conseguido. Se permiten queries compuestas.</li>
+</ul>
 </p>
